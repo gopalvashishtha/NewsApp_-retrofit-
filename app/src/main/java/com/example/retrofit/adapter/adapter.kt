@@ -1,6 +1,6 @@
 package com.example.retrofit.adapter
 
-import android.content.Context
+
 import android.content.Intent
 import android.net.Uri
 import android.view.LayoutInflater
@@ -13,9 +13,9 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 
 import com.example.retrofit.R
-//import com.example.retrofit.article
 
 
+//
 class adapter(private var titles: List<String>,
               private var details: List<String>,
               private var images: List<String>,
